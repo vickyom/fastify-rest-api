@@ -1,0 +1,24 @@
+{
+  "name": "fastify-sitepoint",
+  "version": "1.0.0",
+  "description": "Fastify v3.0 example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Fastify",
+    "Node.js",
+    "API",
+    "REST"
+  ],
+  "author": "Michiel Mulders",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.5.1",
+    "fastify-env": "^2.0.1",
+    "fastify-plugin": "^3.0.0",
+    "fastify-routes": "^3.0.1"
+  }
+}
