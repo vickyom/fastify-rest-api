@@ -1,5 +1,8 @@
 # fastify-rest-api
-Validation and Serialization
-Hooks
-Decorators
-Plugins
+`Validation and Serialization`
+
+`Hooks`
+
+`Decorators`
+
+`Plugins`
